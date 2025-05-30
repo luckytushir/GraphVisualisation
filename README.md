@@ -30,16 +30,12 @@ Supports multiple graph algorithms, custom graph input, and an integrated ML-bas
 ## 🚀 Getting Started
 
 ### Prerequisites
-
-https://github.com/user-attachments/assets/0ee8cfe1-c92a-45ff-b4b4-b03abfd7434b
-
-
-
 - **C++17** (or later)  
 - **SFML 3.0**  
 - **Dear ImGui** (integrated in the repo)  
 - A modern compiler (MSVC, g++, clang)
 
 ###Demo video
+https://github.com/user-attachments/assets/0ee8cfe1-c92a-45ff-b4b4-b03abfd7434b
 📽️ [Watch the Demo Video](https://drive.google.com/file/d/1wv8nZsUsVkeWkdi9MkA26ABucrRaAHXX/view?usp=sharing)
 
